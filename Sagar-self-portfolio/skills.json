@@ -1,0 +1,103 @@
+[
+  
+    {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/?size=60&id=BEMhRoRy403e&format=png&color=000000"
+    },
+    {
+        "name": "PPT",
+        "icon": "https://img.icons8.com/?size=60&id=ifP93G7BXUhU&format=png&color=000000"
+    },
+    {
+        "name": "Doc",
+        "icon": "https://img.icons8.com/?size=60&id=v0YYnU84T2c4&format=png&color=000000"
+    },
+    {
+        "name": "Form",
+        "icon": "https://img.icons8.com/?size=60&id=E4VmOrv6BZqd&format=png&color=000000"
+    },
+  
+    {
+        "name": "Sheet",
+        "icon": "https://img.icons8.com/?size=60&id=6yIWVyFTE0no&format=png&color=000000"
+    },
+    {
+        "name": "Site",
+        "icon": "https://img.icons8.com/?size=60&id=E4VmOrv6BZqd&format=png&color=000000"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "AppScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Workspace",
+        "icon": "https://img.icons8.com/?size=60&id=qzYpo4bRG8AN&format=png&color=000000"
+    },
+    {
+        "name": "Drive",
+        "icon": "https://img.icons8.com/?size=60&id=eKDChMKt75eu&format=png&color=000000"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Looker",
+        "icon": "https://img.icons8.com/?size=60&id=cpnGCcdUsLBP&format=png&color=000000"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/?size=60&id=3sGOUDo9nJ4k&format=png&color=000000"
+    },
+    {
+        "name": "SAP",
+        "icon": "https://img.icons8.com/?size=60&id=38192&format=png&color=0000000"
+    },
+    {
+        "name": "PowerQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "DAX",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "Mindmap",
+        "icon": "https://img.icons8.com/?size=60&id=Tc3kCFjWVdkR&format=png&color=000000"
+    },
+    {
+        "name": "Chat GPT",
+        "icon": "https://img.icons8.com/?size=60&id=ka3InxFU3QZa&format=png&color=000000"
+    },
+    {
+        "name": "GEMINI AI",
+        "icon": "https://img.icons8.com/?size=60&id=eoxMN35Z6JKg&format=png&color=000000"
+    },
+    
+    
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }  
+    
+]
